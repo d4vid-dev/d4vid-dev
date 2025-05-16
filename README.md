@@ -27,9 +27,9 @@
   </a>
 </div>
 
-
+---
 - 📫 Entre em contato comigo:
-
+<br>
 
 <div>
   <a href="https://www.instagram.com/david_vie013/" target="_blank">
